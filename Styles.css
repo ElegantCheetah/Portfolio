@@ -22,6 +22,12 @@ h2 {
   font-size: 30px;
 }
 
+.body {
+	padding: 20px;
+	text-align: left;
+	background: red;
+}
+
 p {
   color: black;
   text-align: left;
