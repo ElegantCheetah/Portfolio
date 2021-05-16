@@ -4,7 +4,7 @@ body {
 
 h1 {
   color: white;
-  text-align: center;
+  text-align: left;
   font-weight: bold;
 }
 .header {
@@ -17,5 +17,5 @@ h1 {
 
 p {
   color: black;
-  text-align: center;
+  text-align: left;
 }
