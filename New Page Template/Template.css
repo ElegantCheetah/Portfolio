@@ -1,0 +1,42 @@
+/*
+Zain Kergaye
+About me page formatting
+*/
+
+/*
+Navigation panel
+*/
+
+nav { 
+  background: #1abc9c; padding: 5px; 
+}
+nav ul { 
+  list-style: none; 
+  color: black;
+}
+nav ul li {
+  display: inline; margin-left: 15px; font-weight: bold; color:black;
+}
+nav ul li a {
+  color: white; 
+  padding: 5px;
+  
+}
+nav ul li a:visited {
+  color: white; 
+}
+nav ul li a:hover { 
+  color: black; 
+}
+
+/*end*/
+
+/*Header*/
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+/*Header*/
