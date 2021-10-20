@@ -1,1 +1,3 @@
-Have top section resume, projects, contant info, about me, internship, (Sections for interests)
+Have top section resume(DONE), projects, 
+contant info(DONE), about me(DONE), internship, 
+(Sections for interests)
