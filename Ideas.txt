@@ -1,3 +1,5 @@
 Have top section resume(DONE), projects, 
 contant info(DONE), about me(DONE), internship, 
 (Sections for interests)
+
+Make Red and Black the colors with the photo katie took

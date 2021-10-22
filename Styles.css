@@ -5,35 +5,38 @@ Last Edit date: 9/9/21
 */
 html {
 	padding:0px;
+  background-color: white;
 }
 body {
   background-color: white;
 }
 
 h1 {
-  color: white;
-  text-align: left;
+  color: black;
+  text-align: center;
   font-weight: bold;
 }
 
 /*Top part of page*/
 nav { 
-  background: #1abc9c; padding: 5px; 
+  background: white; 
+  padding: 5px; 
+  text-align: center;
 }
 nav ul { 
   list-style: none; 
-  color: black;
+  color: rgb(255, 255, 255);
 }
 nav ul li {
   display: inline; margin-left: 15px; font-weight: bold; color:black;
 }
 nav ul li a {
-  color: white; 
+  color: rgb(0, 0, 0); 
   padding: 5px;
   
 }
 nav ul li a:visited {
-  color: white; 
+  color: black; 
 }
 nav ul li a:hover { 
   color: black; 
@@ -57,25 +60,25 @@ h3 {
 .header {
   padding: 60px;
   text-align: center;
-  background: #1abc9c;
+  background: rgb(255, 255, 255);
   color: black;
   font-size: 30px;
 }
 
 .body {
 	padding: 0px;
-	text-align: left;
-	background: white;
+	text-align: center;
+	background: rgb(255, 255, 255);
 }
 
+
+.body1 {
+	padding: 5px;
+	text-align: center;
+	background: white;
+}
 
 /*Below secion now non existant */
-.body1 {
-	padding: 0px;
-	text-align: left;
-	background: white;
-}
-
 p {
   color: black;
   text-align: left;
