@@ -28,7 +28,10 @@ nav ul {
   color: rgb(255, 255, 255);
 }
 nav ul li {
-  display: inline; margin-left: 15px; font-weight: bold; color:black;
+  display: inline;
+  margin-left: 15px;
+  font-weight: bold; 
+  color:black;
 }
 nav ul li a {
   color: rgb(0, 0, 0); 
