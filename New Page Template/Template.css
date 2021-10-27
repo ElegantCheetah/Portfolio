@@ -45,3 +45,12 @@ nav ul li a:hover {
   font-size: 30px;
 }
 /*Header*/
+
+/*Footer of the page*/
+
+div.footer{
+  padding: 5px;
+  text-align-last: center;
+  background-color: white;
+}
+/*End footer*/

@@ -70,15 +70,15 @@ h3 {
 
 .body {
 	padding: 0px;
-	text-align: center;
 	background: rgb(255, 255, 255);
+  text-align-last: center;
 }
 
 
 .body1 {
 	padding: 5px;
-	text-align: center;
-	background: white;
+  text-align-last: center;
+	background: whitesmoke;
 }
 
 /*Below secion now non existant */
@@ -86,3 +86,13 @@ p {
   color: black;
   text-align: left;
 }
+
+
+/*Footer of the page*/
+
+div.footer{
+  padding: 5px;
+  text-align-last: center;
+  background-color: white;
+}
+/*End footer*/
