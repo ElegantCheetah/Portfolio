@@ -4,9 +4,25 @@ About me page formatting
 */
 
 /*
-Navigation panel
+All of the html page
 */
 
+html {
+  text-align: center;
+}
+
+/*
+Text sizes
+*/
+
+h2 {
+  text-size-adjust: 15;
+}
+
+
+/*
+Nav panel
+*/
 nav { 
   background: white;
   padding: 5px; 
