@@ -1,0 +1,68 @@
+/*
+Zain Kergaye
+About me page formatting
+*/
+html{
+  background-color: whitesmoke;
+}
+/*
+Navigation panel
+*/
+
+nav { 
+  background: whitesmoke; 
+  padding: 5px; 
+  text-align: center;
+}
+nav ul { 
+  list-style: none; 
+  color: rgb(255, 255, 255);
+}
+nav ul li {
+  display: inline;
+  margin-left: 15px;
+  font-weight: bold; 
+  color:black;
+}
+nav ul li a {
+  color: rgb(0, 0, 0); 
+  padding: 5px;
+  
+}
+nav ul li a:visited {
+  color: black; 
+}
+nav ul li a:hover { 
+  color: black; 
+}
+
+/*end*/
+
+/*Header*/
+.header {
+  padding: 60px;
+  text-align: center;
+  background: white;
+  color: black;
+  font-size: 30px;
+}
+/*Header*/
+
+
+/*Body*/
+.body1 {
+  text-align: center;
+  background-color: white;
+
+
+}
+/*End Body*/
+
+/*Footer of the page*/
+
+div.footer{
+  padding: 10px;
+  text-align-last: center;
+  background-color: whitesmoke;
+}
+/*End footer*/

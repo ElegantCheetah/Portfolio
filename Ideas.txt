@@ -5,3 +5,7 @@ contant info(DONE), about me(DONE), internship,
 Make Red and Black the colors with the photo katie took : not sure still like white
 
 Have bottom section on every page : DONE
+
+Add Coding projects with github
+
+Add 3D modeling things
