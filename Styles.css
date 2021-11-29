@@ -60,6 +60,18 @@ h3 {
 	font-size:25px;
 }
 
+h4 {
+  color: black; 
+  text-align: center;
+  font-size:25px;
+}
+
+h5 {
+  color: black; 
+  text-align: center;
+  font-size:25px;
+}
+
 .header {
   padding: 60px;
   text-align: center;
