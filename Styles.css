@@ -6,7 +6,14 @@ Last Edit date: 9/9/21
 html {
 	padding:0px;
   background-color: white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: dimgray;
 }
+
+.everything {
+  background-color:darkorange
+}
+
 body {
   background-color: white;
 }
@@ -18,8 +25,7 @@ h1 {
 }
 
 /*Top part of page*/
-nav { 
-  background: white; 
+nav {  
   padding: 5px; 
   text-align: center;
 }
@@ -44,6 +50,18 @@ nav ul li a:visited {
 nav ul li a:hover { 
   color: black; 
 }
+
+/*center text css*/
+.centered {
+  position: absolute;
+  top: 50%;
+  bottom:10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 64px;
+}
+/* end */
 
 /*End*/ 
 
@@ -71,7 +89,7 @@ h5 {
   text-align: center;
   font-size:25px;
 }
-
+ /*
 .header {
   padding: 60px;
   text-align: center;
@@ -79,10 +97,10 @@ h5 {
   color: black;
   font-size: 30px;
 }
-
+UNUSED HEADER
+*/
 .body {
 	padding: 0px;
-	background: rgb(255, 255, 255);
   text-align-last: center;
 }
 
@@ -90,7 +108,8 @@ h5 {
 .body1 {
 	padding: 5px;
   text-align-last: center;
-	background: whitesmoke;
+  text-align: center;
+  position: relative;
 }
 
 /*Below secion now non existant */
@@ -105,6 +124,5 @@ p {
 div.footer{
   padding: 5px;
   text-align-last: center;
-  background-color: white;
 }
 /*End footer*/
