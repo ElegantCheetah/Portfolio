@@ -10,14 +10,12 @@ html{
 Navigation panel
 */
 
-nav { 
-  background: whitesmoke; 
+nav {  
   padding: 5px; 
   text-align: center;
 }
 nav ul { 
   list-style: none; 
-  color: rgb(255, 255, 255);
 }
 nav ul li {
   display: inline;
@@ -43,7 +41,6 @@ nav ul li a:hover {
 .header {
   padding: 60px;
   text-align: center;
-  background: white;
   color: black;
   font-size: 30px;
 }
@@ -53,7 +50,6 @@ nav ul li a:hover {
 /*Body*/
 .body1 {
   text-align: center;
-  background-color: white;
 
 
 }
@@ -64,6 +60,5 @@ nav ul li a:hover {
 div.footer{
   padding: 10px;
   text-align-last: center;
-  background-color: whitesmoke;
 }
 /*End footer*/

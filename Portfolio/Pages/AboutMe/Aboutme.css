@@ -30,13 +30,11 @@ h2 {
 Nav panel
 */
 nav { 
-  background: white;
   padding: 5px; 
   text-align: center;
 }
 nav ul { 
   list-style: none; 
-  color: white;
 }
 nav ul li {
   display: inline; 
@@ -62,7 +60,6 @@ nav ul li a:hover {
 .header {
   padding: 60px;
   text-align: center;
-  background: white;
   color: black;
   font-size: 30px;
 }
@@ -73,6 +70,5 @@ nav ul li a:hover {
 div.footer{
   padding: 5px;
   text-align-last: center;
-  background-color: white;
 }
 /*End footer*/
