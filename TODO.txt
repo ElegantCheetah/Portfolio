@@ -9,3 +9,5 @@ Add more stuff into the website
 
 Create a secret landing page
 Create an html redirect page
+
+Make sure to update release info whenever I add stuff
