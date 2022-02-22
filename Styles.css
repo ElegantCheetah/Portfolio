@@ -13,11 +13,13 @@ html {
 
 .everything {
   background-color:#ff9966; 
+  text-align: center;
   
 }
 
 body {
   background-color: white;
+  text-align: inherit;
 }
 
 h1 {
@@ -105,7 +107,7 @@ UNUSED HEADER
 */
 .body {
 	padding: 0px;
-  text-align-last: center;
+  text-align: center;
 }
 
 
@@ -127,6 +129,6 @@ p {
 
 div.footer{
   padding: 5px;
-  text-align-last: center;
+  text-align: center;
 }
 /*End footer*/
