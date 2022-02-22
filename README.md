@@ -16,7 +16,9 @@ This project is created with:
 * Magic
 
 ## Release info
-### 12/6/21 (Latest)
+### 2/21/22 (Latest)
+I added an internship page with more content and spiced up some pages.
+### 12/6/21
 I added more to the about me page and fixed the top nav bar.
 ### 12/3/21
 I made some of the files easier to read and I updated the readme. I will be showing off the release notes like this.
