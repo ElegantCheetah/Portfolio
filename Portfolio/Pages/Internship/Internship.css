@@ -57,6 +57,8 @@ nav ul li a:hover {
   border-radius: 3px;
   border-width: 5px;
   image-rendering: auto;
+  width:fit-content;
+  height:fit-content;
 }
 
 /*Footer of the page*/
