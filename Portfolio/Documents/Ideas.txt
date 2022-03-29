@@ -1,6 +1,6 @@
 Have top section resume(DONE), projects, 
 contant info(DONE), about me(DONE), internship, 
-(Sections for interests)
+(Sections for interests) DONE
 
 Make Red and Black the colors with the photo katie took : not sure still like white
 
