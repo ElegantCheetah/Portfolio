@@ -70,6 +70,13 @@ nav ul li a:hover {
 }
 /*Header*/
 
+.img {
+  max-width: 756px;
+  max-height: 1008px;
+  width:min-content;
+  height:min-content;
+}
+
 /*Footer of the page*/
 
 div.footer{

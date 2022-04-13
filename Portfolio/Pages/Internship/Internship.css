@@ -40,7 +40,8 @@ nav ul li a:visited {
   color: black; 
 }
 nav ul li a:hover { 
-  color: black; 
+  color: black;
+  padding: 5px;
 }
 
 /*end*/
@@ -53,6 +54,14 @@ nav ul li a:hover {
   font-size: 30px;
 }
 /*Header*/
+
+
+.img {
+  max-width: 756px;
+  max-height: 1008px;
+  width:min-content;
+  height:min-content;
+}
 
 .sideimg{
   border-radius: 3px;
