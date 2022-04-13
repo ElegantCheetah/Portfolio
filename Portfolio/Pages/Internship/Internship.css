@@ -16,6 +16,7 @@ html {
 .everything{
   background-color:#ff9966;
   text-align: center;
+  border-radius: 20px 20px 20px 20px;
 }
 nav { 
   padding: 5px; 

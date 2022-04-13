@@ -13,8 +13,13 @@ html {
   background-color: #3c455c;
 }
 
+.corners {
+  background:#3c455c;
+}
+
 .everything {
   background-color:#ff9966; 
+  border-radius: 20px 20px 20px 20px;
 }
 
 /*
