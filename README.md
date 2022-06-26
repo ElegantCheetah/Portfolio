@@ -16,7 +16,9 @@ This project is created with:
 * Magic
 
 ## Release info
-### 2/21/22 (Latest)
+### 6/25/22 (Latest)
+I have finally touched my portfolio again and added a blog page to hopefully update often.
+### 2/21/22
 I added an internship page with more content and spiced up some pages.
 ### 12/6/21
 I added more to the about me page and fixed the top nav bar.
