@@ -44,6 +44,12 @@ nav ul li a:hover {
 
 /*end*/
 
+/* image proper formatting*/
+.img{
+  align-items: center;
+}
+/* image proper formatting*/
+
 /* text centering */
 .body {
   text-align: center;
