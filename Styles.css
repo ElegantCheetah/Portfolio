@@ -32,6 +32,12 @@ h1 {
   font-weight: bold;
 }
 
+h2 {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+
 /*Top part of page*/
 nav {  
   padding: 5px; 
@@ -75,11 +81,6 @@ nav ul li a:hover {
 
 /*End*/ 
 
-h2 {
-	color: white;
-	text-align: center;
-	font-weight: bold;
-}
 
 h3 {
 	color: black;
